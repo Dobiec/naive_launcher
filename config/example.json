@@ -1,0 +1,5 @@
+{
+  "listen": "socks://127.0.0.1:1088",
+  "proxy": "https://user:passwd@example.github.com:443",
+  "log": ""
+}
