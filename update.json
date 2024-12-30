@@ -1,6 +1,6 @@
 {
-    "version": "v2.0.1",
-    "versionCode": "20241226",
-    "zipUrl": "https://github.com/Dobiec/naive_launcher/releases/download/v2.0.1/naive_launcher_v2.0.1_arm64.zip",
-    "changelog": "https://github.com/Dobiec/naive_launcher/raw/master/CHANGELOG.md"
+    "version": "v2.1.0",
+    "versionCode": "20241230",
+    "zipUrl": "https://github.com/Dobiec/naive_launcher/releases/download/v2.1.0/naive_launcher_v2.1.0_arm64.zip",
+    "changelog": "https://github.com/Dobiec/naive_launcher/raw/main/CHANGELOG.md"
 }
